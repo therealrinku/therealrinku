@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Rinku Chaudhari
+- 👀 I’m interested in solving real word problems through the magic of coding.
+- 🌱 I’m currently learning typescript.
