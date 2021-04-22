@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Rinku Chaudhari
-- 👀 I’m interested in solving real word problems through the coding.
+- 👀 I’m a full stack web developer from Nepal.
 - 🌱 I’m currently learning typescript.
