@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Rinku Chaudhari
 - 👀 I’m a full stack web developer from Nepal.
-- 🌱 I’m currently learning typescript.
+- 🌱 I’m currently learning typescript
