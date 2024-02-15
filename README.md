@@ -13,7 +13,7 @@
 
 I'm a software engineer from Nepal and
 
-I love coding and building cool stuff with the power of code.
+I love building cool stuff with the power of code.
 
 </p>
   
