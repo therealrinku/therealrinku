@@ -11,9 +11,9 @@
 <b>About</b>
     <p>      
 
-I'm a software engineer from Nepal with 3+ years of experience in mobile and fullstack web development.
+I'm a software engineer from Nepal and
 
-I love coding and building cool stuff with the power of code and working on open source projects.
+I love coding and building cool stuff with the power of code.
 
 </p>
   
