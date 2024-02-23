@@ -1,4 +1,4 @@
-<h1>Hello there! I'm Rinku</h1>   
+<h1>Hello there!</h1>   
 
 <br/>
 <br/>
@@ -8,7 +8,7 @@
 <b>About</b>
     <p>      
 
-I'm a software engineer from Nepal and
+I'm Rinku, a software engineer from Nepal and
 
 I love building cool stuff with the power of code.
 
