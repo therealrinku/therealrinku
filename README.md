@@ -1,6 +1,6 @@
 <div align="right">
 
-<h1>Hello there!</h1>   
+<h1>Hello there</h1>   
 
 I'm Rinku, I'm a software engineer from Nepal and
 
