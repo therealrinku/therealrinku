@@ -27,5 +27,4 @@ I usually like to work on fixing bugs and improvements that improves the user ex
 ---
 
 ### Contact Me
-- You can [email me](mailto:rinkunited203@gmail.com)
-- Or reach out to me on [LinkedIn](https://linkedin.com/in/therealrinku)
+- Find my contact information on my GitHub profile section.
