@@ -19,8 +19,3 @@ I usually like to work on fixing bugs and improvements that improves the user ex
 - Make scope required on project and group access token creation forms [MR link](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/219236)
 - Add runner delay for Bruno [PR link](https://github.com/usebruno/bruno/pull/2218)
 - Added request tab context menu for Bruno [PR link](https://github.com/usebruno/bruno/pull/2183)
-
----
-
-### Contact Me
-- Find my contact information on my GitHub profile section.
