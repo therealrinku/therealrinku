@@ -1,4 +1,4 @@
-<img src="img/main.avif" width="100%" height="350px"/>
+<img src="img/main.avif" width="100%" height="250px"/>
 
 ---
 
