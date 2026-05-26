@@ -1,4 +1,4 @@
-<img src="img/main.jpg" />
+<img src="img/mitchell-luo-GaOuxDGxdYs-unsplash.jpg" width="100%" height="400px"/>
 
 ---
 
