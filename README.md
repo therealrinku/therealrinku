@@ -1,4 +1,4 @@
-<img src="img/branding.png" />
+<img src="main.jpg" />
 
 ---
 
