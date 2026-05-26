@@ -2,9 +2,10 @@
 
 ---
 
-I'm an software engineer and open source contributor working mainly on [GitLab](https://gitlab.com/gitlab-org/gitlab).
-
+I'm an software engineer and open source contributor contributing mainly to [GitLab](https://gitlab.com/gitlab-org/gitlab).
 Checkout my GitLab contributions [here](https://contributors.gitlab.com/users/therealrinku?fromDate=2025-05-26&toDate=). Close to getting 100 MR merged btw! Checkout my GitLab profile [here](https://gitlab.com/therealrinku) 
+
+I've also contributed to [Bruno](https://github.com/usebruno/bruno/pulls?q=is%3Apr+author%3Atherealrinku+is%3Amerged) and [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio/pulls?q=author%3Atherealrinku+is%3Amerged) as well.
 
 I usually like to work on fixing bugs and improvements that improves the user experiences and makes the product more stable and reliable.
 
@@ -19,5 +20,5 @@ I usually like to work on fixing bugs and improvements that improves the user ex
 - Add buttons to navigate to next/previous search result in job log page [MR link](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/217618)
 - Support opening files and folders in new tab in repository file tree [MR link](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/219565)
 - Make scope required on project and group access token creation forms [MR link](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/219236)
-- Add runner delay for bruno [PR link](https://github.com/usebruno/bruno/pull/2218)
-- Added request tab context menu for bruno [PR link](https://github.com/usebruno/bruno/pull/2183)
+- Add runner delay for Bruno [PR link](https://github.com/usebruno/bruno/pull/2218)
+- Added request tab context menu for Bruno [PR link](https://github.com/usebruno/bruno/pull/2183)
