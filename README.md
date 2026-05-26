@@ -1,7 +1,3 @@
-<img src="img/main.avif" width="100%" height="250px"/>
-
----
-
 Hello! I'm Rinku.
 
 I'm a software engineer and open source contributor contributing mainly to [GitLab](https://gitlab.com/gitlab-org/gitlab).
