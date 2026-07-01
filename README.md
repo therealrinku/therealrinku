@@ -1,6 +1,4 @@
-Hello!
-
-I'm a software engineer and open source contributor currently contributing mainly to [GitLab](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/?sort=updated_desc&state=merged&author_username=therealrinku&first_page_size=20) with 100+ MR merged so far.
+Hello! I'm a software engineer and open source contributor currently contributing mainly to [GitLab](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/?sort=updated_desc&state=merged&author_username=therealrinku&first_page_size=20) with 100+ MR merged so far.
 I've won the [Notable contributor award](https://docs.gitlab.com/releases/18/gitlab-18-11-released/#this-months-notable-contributor-rinku-c) from GitLab as well.
 
 I've also contributed to [Bruno](https://github.com/usebruno/bruno/pulls?q=is%3Apr+author%3Atherealrinku+is%3Amerged) and [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio/pulls?q=author%3Atherealrinku+is%3Amerged).
