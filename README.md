@@ -3,9 +3,18 @@ I've won the [Notable contributor award](https://docs.gitlab.com/releases/18/git
 
 I've also contributed to [Bruno](https://github.com/usebruno/bruno/pulls?q=is%3Apr+author%3Atherealrinku+is%3Amerged) and [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio/pulls?q=author%3Atherealrinku+is%3Amerged).
 
-I usually like to work on fixing bugs and improvements that improves the user experience and make the product more stable and reliable.
+I usually like to work on fixing bugs, adding features and improvements that improves the user experience and make the product more stable and reliable.
 
----
+----
+### Languages and frameworks I've worked with:
+- `Langauges`: Javascript, Typescript, Python, Ruby, C
+- `Frontend frameworks`: React.js, Next.js, Vue.js, Angular.js, Svelte, 
+- `Backend frameworks`: Node.js, Express.js, Nest.js, Ruby on Rails, Django
+- `Application development`: React Native, Electron.js
+- `Databases`: PostgreSQL, MongoDB, SQlite, Redis
+- `Services`: AWS, Google Cloud, Firebase, Supabase, Shopify
+- and more
+----
 
 ### Some of my personal favorite open source contributions:
 
