@@ -7,7 +7,7 @@ I usually like to work on fixing bugs, adding features and improvements that imp
 
 ----
 ### Languages and frameworks I've worked with:
-- `Langauges`: Javascript, Typescript, Python, Ruby, C
+- `Langauges`: Javascript, Typescript, Python
 - `Frontend frameworks`: React.js, Next.js, Vue.js, Angular.js, Svelte, 
 - `Backend frameworks`: Node.js, Express.js, Nest.js, Ruby on Rails, Django
 - `Application development`: React Native, Electron.js, Tauri
