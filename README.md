@@ -10,7 +10,7 @@ I usually like to work on fixing bugs, adding features and improvements that imp
 - `Langauges`: Javascript, Typescript, Python, Ruby, C
 - `Frontend frameworks`: React.js, Next.js, Vue.js, Angular.js, Svelte, 
 - `Backend frameworks`: Node.js, Express.js, Nest.js, Ruby on Rails, Django
-- `Application development`: React Native, Electron.js
+- `Application development`: React Native, Electron.js, Tauri
 - `Databases`: PostgreSQL, MongoDB, SQlite, Redis
 - `Services`: AWS, Google Cloud, Firebase, Supabase, Shopify
 - and more
