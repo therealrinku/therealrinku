@@ -5,7 +5,8 @@ I've also contributed to [Bruno](https://github.com/usebruno/bruno/pulls?q=is%3A
 
 I usually like to work on fixing bugs, adding features and improvements that improves the user experience and make the product more stable and reliable.
 
-Resume: https://github.com/therealrinku/therealrinku/blob/main/rinku-resume.pdf
+Checkout my resume [here](https://github.com/therealrinku/therealrinku/blob/main/rinku-resume.pdf).
+
 ----
 ### Languages and frameworks I've worked with:
 - `Langauges`: Javascript, Typescript, Python
