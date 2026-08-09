@@ -3,8 +3,6 @@ I've won the [Notable contributor award](https://docs.gitlab.com/releases/18/git
 
 I've also contributed to [Bruno](https://github.com/usebruno/bruno/pulls?q=is%3Apr+author%3Atherealrinku+is%3Amerged) and [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio/pulls?q=author%3Atherealrinku+is%3Amerged).
 
-Checkout my resume [here](https://github.com/therealrinku/therealrinku/blob/main/rinku-resume.pdf).
-
 ----
 ### Languages and frameworks I've worked with:
 - `Langauges`: Javascript, Typescript, Python
