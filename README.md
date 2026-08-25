@@ -1,26 +1,6 @@
-Hello! I'm a software engineer and open source contributor currently contributing mainly to [GitLab](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/?sort=updated_desc&state=merged&author_username=therealrinku&first_page_size=20) with 100+ MR merged so far.
-I've won the [Notable contributor award](https://docs.gitlab.com/releases/18/gitlab-18-11-released/#this-months-notable-contributor-rinku-c) from GitLab as well.
+Hello! I'm a full stack software engineer and open source contributor.
 
-I've also contributed to [Bruno](https://github.com/usebruno/bruno/pulls?q=is%3Apr+author%3Atherealrinku+is%3Amerged) and [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio/pulls?q=author%3Atherealrinku+is%3Amerged).
-
-----
-### Languages and frameworks I've worked with:
-- `Langauges`: Javascript, Typescript, Python
-- `Frontend frameworks`: React.js, Next.js, Vue.js, Angular.js, Svelte, 
-- `Backend frameworks`: Node.js, Express.js, Nest.js, Ruby on Rails, Django
-- `Application development`: React Native, Electron.js, Tauri
-- `Databases`: PostgreSQL, MongoDB, SQlite, Redis
-- `Services`: AWS, Google Cloud, Firebase, Supabase, Shopify
-- and more
-----
-
-### Some of my personal favorite open source contributions:
-
-- Implement dedicated search panel for file tree browser [MR link](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/224493)
-- Add restore version button on wiki history [MR link](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/209758)
-- Add create from template button on wiki templates [MR link](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/209591)
-- Add buttons to navigate to next/previous search result in job log page [MR link](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/217618)
-- Support opening files and folders in new tab in repository file tree [MR link](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/219565)
-- Make scope required on project and group access token creation forms [MR link](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/219236)
-- Add runner delay for Bruno [PR link](https://github.com/usebruno/bruno/pull/2218)
-- Added request tab context menu for Bruno [PR link](https://github.com/usebruno/bruno/pull/2183)
+Key open source contributions:
+- 100+ MR merged to [GitLab](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/?sort=updated_desc&state=merged&author_username=therealrinku&first_page_size=20) with [Notable contributor award](https://docs.gitlab.com/releases/18/gitlab-18-11-released/#this-months-notable-contributor-rinku-c)
+- 25+ PR merged to [Bruno](https://github.com/usebruno/bruno/pulls?q=is%3Apr+author%3Atherealrinku+is%3Amerged)
+- 35+ PR merged to [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio/pulls?q=author%3Atherealrinku+is%3Amerged)
