@@ -5,4 +5,6 @@ Key open source contributions:
 - 25+ PR merged to [Bruno](https://github.com/usebruno/bruno/pulls?q=is%3Apr+author%3Atherealrinku+is%3Amerged)
 - 35+ PR merged to [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio/pulls?q=author%3Atherealrinku+is%3Amerged)
 
-Some highlighted OSS Work [here](https://github.com/therealrinku/therealrinku/blob/main/oss.md)
+Some highlighted OSS Work [here](https://github.com/therealrinku/therealrinku/blob/main/oss.md) 
+
+📫 rinkunited2032@gmail.com
