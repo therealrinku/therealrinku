@@ -1,4 +1,4 @@
-Hello! I'm a full stack software engineer and open source contributor.
+Hello! I'm Rinku, a full stack software engineer and open source contributor.
 
 Key open source contributions:
 - 100+ MR merged to [GitLab](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/?sort=updated_desc&state=merged&author_username=therealrinku&first_page_size=20) with [Notable contributor award](https://docs.gitlab.com/releases/18/gitlab-18-11-released/#this-months-notable-contributor-rinku-c)
